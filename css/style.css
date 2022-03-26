@@ -72,6 +72,12 @@ body {
 .flex{
   display: flex;
 }
+.fix-img{
+  margin: 20px;
+  border-radius: 45px;
+  width: 550px;
+  height: 550px;
+}
 
 .act-colum{
   padding: 20px;
@@ -187,8 +193,12 @@ nav.fixed-top {
     width: 60px;
   }
   .iframe-content{
-    width:600px; 
+    width: 450px;; 
     height:300px; 
+  }
+  .fix-img{
+    width: 440px;
+    height: 440px;
   }
 }
 @media (max-width: 991px) {
