@@ -499,10 +499,15 @@ a {
   }
 }
 @media (max-width: 450px) {
+  
   .back-bg {
     width: 100%;
     min-height: 320px;
     margin-left: -30px;
+  }
+  .size-media{
+    width: 340px;
+    height: 280px;
   }
 }
 
