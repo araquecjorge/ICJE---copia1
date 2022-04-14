@@ -87,6 +87,16 @@ body {
   width: 150px;
 }
 
+.img-us{
+  width: 460px;
+  height: 600px;
+}
+
+.img-size-recent{
+  width: 350px;
+  height: 350px;
+}
+
 .sizeImg {
   width: 330px;
 }
@@ -222,6 +232,10 @@ nav.fixed-top {
   }
   .header .carousel-caption ul {
     margin-top: 20px;
+  }
+  .img-us{
+    width: 309px;
+    height: 500px;
   }
 }
 
