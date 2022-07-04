@@ -69,6 +69,11 @@ body {
   color: #aeafb9;
 }
 
+.imgFrases{
+  width:197px;
+  height:197px;
+}
+
 .flex{
   display: flex;
 }
